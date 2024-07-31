@@ -19,8 +19,7 @@ Any libraries will need to be added to the `packages.json` file, and installed u
 
 Compile and run typescript code using
 ```sh
-npx tsc hello.ts
-node hello.js
+npm start
 ```
 
 # Running the Scripts
